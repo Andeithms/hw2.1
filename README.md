@@ -9,3 +9,22 @@ To bold the middle of a word for emphasis, add two asterisks without spaces arou
 
 I just love **bold text**.
 Love**is**bold
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
